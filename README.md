@@ -16,6 +16,5 @@
 </p>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankur8699)](https://github.com/ankur8699/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankur8699&layout=compact)](https://github.com/ankur8699/github-readme-stats)
 <img src="https://github-readme-stats.vercel.app/api?username=ankur8699&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
