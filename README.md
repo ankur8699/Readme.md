@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/ankur-arora-/">
-  <img style="height:28px ; width:113px"src="https://aerodynamicadvisory.com/wp-content/uploads/2020/06/Linkedin-Logo.png" />
+  <img style="height:28px;width:113px" src="https://aerodynamicadvisory.com/wp-content/uploads/2020/06/Linkedin-Logo.png" />
 </a>
 <img src="https://gpvc.arturio.dev/mikkyboy2005" />
 </p>
