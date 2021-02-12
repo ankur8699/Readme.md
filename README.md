@@ -3,14 +3,14 @@
 <p align='center'>I am a Software Engineer focused on Flutter💙. </p>
 
 <p align='center'>
-  <a href="https://instagram.com/michael.olusegun357" target="blank">
+  <a href="https://www.instagram.com/ankur_8699_/" target="blank">
   <img src="https://img.shields.io/badge/Instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" alt="michael.olusegun357"/>
   </a>&nbsp;&nbsp;
-<a href="mailto:michaelolusegun357@gmail.com">
+<a href="mailto:8699ankurinsan@gmail.com">
   <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
-  <a href="http://wa.me/22999249702?text=Hello Michael">
-  <img src="https://img.shields.io/badge/whatsapp-%34B7F1.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href="https://www.linkedin.com/in/ankur-arora-/">
+  <img src="https://aerodynamicadvisory.com/wp-content/uploads/2020/06/Linkedin-Logo.png" />
 </a>
 <img src="https://gpvc.arturio.dev/mikkyboy2005" />
 </p>
