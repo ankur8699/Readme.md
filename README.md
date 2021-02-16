@@ -5,7 +5,8 @@
 <p align='center'>
   <a href="https://www.instagram.com/ankur_8699_/" target="blank">
   <img src="https://img.shields.io/badge/Instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" alt="michael.olusegun357"/>
-  </a>&nbsp;&nbsp;
+  </a>
+  &nbsp;&nbsp;
 <a href="mailto:8699ankurinsan@gmail.com">
   <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
